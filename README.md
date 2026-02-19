@@ -10,7 +10,7 @@ The goal is to see whether these lifestyle factors really connect to my academic
 - Are eating habits connected to academic productivity?
 
 ## How it works
-- **Daily logging** in Google Sheets ( sleep, eating, exercise, mood, stress, menstrual cycle)
+- **Daily logging** in Google Sheets ( sleep, eating, exercise, mood, stress)
 - **Weekly export** as CVS
 - **Python analysis** ('src/analyze_tracker.py') :
   - Weekly summaries of habits
